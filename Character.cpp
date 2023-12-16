@@ -1,7 +1,7 @@
-/*Kyaw Win
+/*
+Kyaw Win
 Project Characters
 Character implementation for term Project 1
-Sep 08, 2023
 */
 
 #include <iostream>
