@@ -1,7 +1,7 @@
-/*Kyaw Win
+/*
+Kyaw Win
 Project 
 Character interface for term Project 
-Sep 08, 2023
 */
 
 #include <iostream>
